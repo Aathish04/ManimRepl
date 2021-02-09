@@ -2,6 +2,8 @@
 
 This is a sample Repl to show how `manim` can be run on [repl.it](https://repl.it) with minimum frustration.
 
+You can find this example repl on `repl.it` [here](https://repl.it/@AathishSivasubr/ManimRepl).
+
 # How To Use:
 
 1. Write the code your animation needs in `main.py`, or any other python file.

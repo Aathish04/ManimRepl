@@ -6,7 +6,7 @@ authors = ["Aathish Sivasubrahmanian <aathish04@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-manim = "^0.3.0"
+manim = ">=0.5,<=0.9"
 manim-onlinetex = "^0.1.0"
 
 [tool.poetry.dev-dependencies]
